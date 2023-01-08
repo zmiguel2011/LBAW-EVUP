@@ -1,0 +1,1 @@
+<p data-id="{{$category -> categoryid}}" class="font-bold uppercase"> {{$category -> categoryname}} </p>
