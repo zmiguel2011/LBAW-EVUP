@@ -1,4 +1,5 @@
 # EVUP
+`EVUP is an events management web platform built specifically for students and organizations at University of Porto`
 
 ## Team
 
