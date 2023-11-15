@@ -1,6 +1,8 @@
 # EVUP
 `EVUP is an events management web platform built specifically for students and organizations at University of Porto`
 
+### Project Grade: 18.2/20
+
 ## Team
 
 - Daniela Tomás, up202004946@edu.fc.up.pt
