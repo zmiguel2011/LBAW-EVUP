@@ -1,5 +1,5 @@
 # EVUP
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Uporto FEUP](https://img.shields.io/badge/UPorto-FEUP-brown)](FEUP)
 
 `EVUP is an events management web platform built specifically for students and organizations at University of Porto`
