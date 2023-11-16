@@ -1,8 +1,8 @@
 # EVUP
-`EVUP is an events management web platform built specifically for students and organizations at University of Porto`
-
 [![GitHub license](https://img.shields.io/github/license/microsoft/ML-For-Beginners.svg)](LICENSE)
 [![Uporto FEUP](https://img.shields.io/badge/UPorto-FEUP-brown)](FEUP)
+
+`EVUP is an events management web platform built specifically for students and organizations at University of Porto`
 
 ### Project Grade: 18.2/20
 
